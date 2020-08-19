@@ -1,12 +1,12 @@
 {
-    "name": "ecomteck/module-salesreps",
+    "name": "magezon/module-hello-world",
     "description": "",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
         {
-            "email": "ecomteck@gmail.com",
-            "name": "Ecomteck"
+            "email": "magezon@gmail.com",
+            "name": "Magezon"
         }
     ],
     "minimum-stability": "dev",
@@ -16,7 +16,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Ecomteck\\SalesReps\\": ""
+            "Magezon\\HelloWorld\\": ""
         }
     }
 }
