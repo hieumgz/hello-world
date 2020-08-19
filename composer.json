@@ -1,0 +1,22 @@
+{
+    "name": "ecomteck/module-salesreps",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "ecomteck@gmail.com",
+            "name": "Ecomteck"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Ecomteck\\SalesReps\\": ""
+        }
+    }
+}
